@@ -16,4 +16,6 @@ The code for the guided project will be written in a single file for simplicity.
 - [ ] **CD into the folder** where you cloned **your fork**.
 - [ ] type `npm i` to download dependencies. This step is equivalent to using `yarn` for React Projects.
 
+To run server: npm run server
+
 Please follow along as the instructor builds the API step by step.
